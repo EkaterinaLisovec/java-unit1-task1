@@ -21,7 +21,7 @@
 * Отчет о тестировании
 * Баг-репорты
 
-**В качестве тестовых данных использовались данные согласно руководству использования KeyValidator [Ссылка на документацию](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)**
+**В качестве тестовых данных использовались данные согласно руководства использования KeyValidator [Ссылка на документацию](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)**
 
 * Валидные ключи:
     * Result for 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998: OK
@@ -34,7 +34,7 @@
     * Result for e66075b6-ddad-445e-baf6-161b3289522b: FAIL
     * Result for b6d53250-f07e-4352-a293-6102ddf7f1ca: FAIL
     * Result for c2bc778a-1cb9-46c6-b435-0489649d2a42: FAIL
-    * Result for 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1: OK
+    * Result for 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1: FAIL
 
 
 Тестирование производилось в следующем окружении:
